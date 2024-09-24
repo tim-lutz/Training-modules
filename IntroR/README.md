@@ -2,7 +2,7 @@
 
 | Audience | Computational skills required | Duration |
 :----------|:----------|:----------|
-| Biologists | None | 2-3 hour workshop (~2-3 hours of trainer-led time) |
+| STEM | None | 2-3 hour workshop (~2-3 hours of trainer-led time) |
 
 ### Description
 This repository has teaching materials for a **2-3 hour**, hands-on **Introduction to R** workshop led at a quick pace. The workshop will give participants an overview of the basics of R and RStudio. R is a simple programming environment that enables the effective handling of data, while providing excellent graphical support. RStudio is a tool that provides a user-friendly environment for working with R. 
@@ -23,10 +23,10 @@ These materials are intended to provide a **quick overview** of the R programmin
 
 | Lessons            | Estimated Duration |
 |:------------------------|:----------|
-|[Introduction to R and RStudio](https://hbctraining.github.io/Training-modules/IntroR/lessons/01_Intro-to-R.html) | 20 min |
-|[Syntax and data structures](https://hbctraining.github.io/Training-modules/IntroR/lessons/02_syntax_and_data_structures.html) | 35 min |
-|[Functions, arguments, packages and seeking help in R](https://hbctraining.github.io/Training-modules/IntroR/lessons/03_functions-and-arguments.html) | 35 min |
-|[Data wrangling](https://hbctraining.github.io/Training-modules/IntroR/lessons/04_data-wrangling.html) | 55 min |
+|[Introduction to R and RStudio](https://tim-lutz.github.io/Training-modules/IntroR/lessons/01_Intro-to-R.html) | 20 min |
+|[Syntax and data structures](https://tim-lutz.github.io/Training-modules/IntroR/lessons/02_syntax_and_data_structures.html) | 35 min |
+|[Functions, arguments, packages and seeking help in R](https://tim-lutz.github.io/Training-modules/IntroR/lessons/03_functions-and-arguments.html) | 35 min |
+|[Data wrangling](https://tim-lutz.github.io/Training-modules/IntroR/lessons/04_data-wrangling.html) | 55 min |
 
 ### Dataset
 
