@@ -19,7 +19,7 @@ Some workshops will require a working knowledge of R or completion of the [Intro
 ### Topics
 | Topic and Link(s) to lessons | Prerequisites |
 |:---------------|:-------------:|
-| [R Basics]([https://tim-lutz.github.io/Training-modules]https://tim-lutz.github.io/Training-modules/IntroR/) | None |
+| [R Basics][https://tim-lutz.github.io/Training-modules] (https://tim-lutz.github.io/Training-modules/IntroR/) | None |
 | [Publication Perfect: Part I](publication_perfect#part-i) | R Basics or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) | 
 | [Publication Perfect: Part II](publication_perfect#part-ii) | R Basics or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) | 
 | [Interact with your data using Rshiny](https://tim-lutz.github.io/Training-modules/RShiny/) | R Basics or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) |
