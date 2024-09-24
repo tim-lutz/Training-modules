@@ -20,17 +20,17 @@ Some workshops will require a working knowledge of R or completion of the [Intro
 
 ### Topics
 | Topic and Link(s) to lessons | Prerequisites |
-|:---------------|:-------------:|:-------------:|:-------------:|
+|:---------------|:-------------:|
 | [R Basics]([https://tim-lutz.github.io/Training-modules]https://tim-lutz.github.io/Training-modules/IntroR/) | None |
 | [Publication Perfect: Part I](publication_perfect#part-i) | R Basics or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) | 
 | [Publication Perfect: Part II](publication_perfect#part-ii) | R Basics or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) | 
-| [Interact with your data using Rshiny](https://tim-lutz.github.io/Training-modules/RShiny/) | R Basics or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) 
+| [Interact with your data using Rshiny](https://tim-lutz.github.io/Training-modules/RShiny/) | R Basics or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) |
 
 **Big data? Big computer! The skill set you need to succeed**
 
 
 | Topic and Link(s) to lessons | Prerequisites |
-|:---------------|:-------------:|:-------------:|:-------------:|
+|:---------------|:-------------:|
 | [The Foundation - Basic Shell](https://tim-lutz.github.io/Training-modules/Basic_shell/)	| None |
 | [Accelerate with Automation - Making your code work for you](https://tim-lutz.github.io/Training-modules/Accelerate_with_automation/)	| [The Foundation - Basic Shell](https://tim-lutz.github.io/Training-modules/Basic_shell/) | 
 | [Needle in a Haystack - Finding and summarizing data from colossal files](https://tim-lutz.github.io/Training-modules/Finding_and_summarizing_colossal_files/) | [The Foundation - Basic Shell](https://tim-lutz.github.io/Training-modules/Basic_shell/) | 
@@ -38,7 +38,7 @@ Some workshops will require a working knowledge of R or completion of the [Intro
 
 
 | Topic and Link(s) to lessons | Prerequisites |
-|:---------------|:-------------:|:-------------:|:-------------:|
+|:---------------|:-------------:|
 | [Introduction to Shell](https://tim-lutz.github.io/Training-modules/Intro_shell/)
 | [Intermediate Shell](https://tim-lutz.github.io/Training-modules/Intermediate_shell/)	| [Introduction to Shell](https://tim-lutz.github.io/Training-modules/Intro_shell/)
 | [Advanced Shell](https://tim-lutz.github.io/Training-modules/Advanced_shell/) | [Intermediate Shell](https://tim-lutz.github.io/Training-modules/Intermediate_shell/)
