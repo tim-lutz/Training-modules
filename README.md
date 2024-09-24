@@ -14,8 +14,6 @@ Some workshops will require a working knowledge of R or completion of the [Intro
 
 ** **NOTE: Detailed information** and **preparation instructions** for each of the workshops can be found by clicking on the workshop links in the table below.
 
-> Workshop introduction slides are available [here](https://tim-lutz.github.io/Training-modules/raw/master/Intro_current_topics_online_2022.pdf).
-
 ***
 
 ### Topics
