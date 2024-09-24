@@ -18,19 +18,14 @@ Some workshops will require a working knowledge of R or completion of the [Intro
 
 ***
 
-### Current Topics in Bioinformatics workshops 2024 Summer Schedule (1pm - 4pm):
-
-| Topic and Link(s) to lessons | Prerequisites | Date | Registration |
+### Topics
+| Topic and Link(s) to lessons | Prerequisites |
 |:---------------|:-------------:|:-------------:|:-------------:|
-| [R Basics]([https://tim-lutz.github.io/Training-modules]https://tim-lutz.github.io/Training-modules/IntroR/) | None | 6/26/2024	| Closed |
-| [Publication Perfect: Part I](publication_perfect#part-i) | R Basics or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) | 7/17/2024	| Closed |
-| [Publication Perfect: Part II](publication_perfect#part-ii) | R Basics or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) | 8/21/2024	| Closed |
-| [Interact with your data using Rshiny](https://tim-lutz.github.io/Training-modules/RShiny/) | R Basics or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) | 9/18/2024	| [Sign up!](https://harvard.zoom.us/meeting/register/tJMkcuyopz0pE9QZtumH6JdGGpngSJDXCoBD#/registration) |
+| [R Basics]([https://tim-lutz.github.io/Training-modules]https://tim-lutz.github.io/Training-modules/IntroR/) | None |
+| [Publication Perfect: Part I](publication_perfect#part-i) | R Basics or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) | 
+| [Publication Perfect: Part II](publication_perfect#part-ii) | R Basics or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) | 
+| [Interact with your data using Rshiny](https://tim-lutz.github.io/Training-modules/RShiny/) | R Basics or [Completion of the Intro to R online resource](https://projects.iq.harvard.edu/hcatrresource/) 
 
-<!-- This content will not appear in the rendered Markdown -->
-<!--
-
-### Current Topics in Bioinformatics workshops 2024 Spring Schedule (1pm - 4pm): 
 **Big data? Big computer! The skill set you need to succeed**
 
 
@@ -41,7 +36,6 @@ Some workshops will require a working knowledge of R or completion of the [Intro
 | [Needle in a Haystack - Finding and summarizing data from colossal files](https://tim-lutz.github.io/Training-modules/Finding_and_summarizing_colossal_files/) | [The Foundation - Basic Shell](https://tim-lutz.github.io/Training-modules/Basic_shell/) | 
 | [Shell Tips and Tricks on O2](https://tim-lutz.github.io/Training-modules/Tips_and_Tricks_on_O2/) | [The Foundation - Basic Shell](https://tim-lutz.github.io/Training-modules/Basic_shell/) |
 
-### Current Topics in Bioinformatics workshops 2023 Schedule (1pm - 4pm):
 
 | Topic and Link(s) to lessons | Prerequisites |
 |:---------------|:-------------:|:-------------:|:-------------:|
